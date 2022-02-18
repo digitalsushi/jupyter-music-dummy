@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t jupyterlab:latest 
+docker build -t jupyterlab:latest .
